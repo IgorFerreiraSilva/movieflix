@@ -1,0 +1,38 @@
+.filmes{
+    margin-top: 24px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.filmes h1{
+    margin-bottom: 14px;
+}
+
+.filmes span{
+    font-size: 18px;
+}
+
+.filmes ul{
+    width: 720px;
+}
+
+.filmes ul li{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 14px;
+}
+
+.filmes div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.filmes div a{
+    text-decoration: none;
+    color: #116feb;
+    margin-right: 14px;
+}
